@@ -26,7 +26,8 @@
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE</DefineConstants>
+    <DefineConstants>
+    </DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <LangVersion>latest</LangVersion>
@@ -37,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Block.cs" />
+    <Compile Include="Models\Document.cs" />
     <Compile Include="Models\Inline.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
