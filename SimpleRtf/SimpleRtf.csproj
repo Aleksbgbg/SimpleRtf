@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="Models\Block.cs" />
     <Compile Include="Models\Document.cs" />
+    <Compile Include="Models\Content.cs" />
     <Compile Include="Models\Inline.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
