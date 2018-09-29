@@ -43,6 +43,7 @@
     <Compile Include="Models\Content.cs" />
     <Compile Include="Models\Hyperlink.cs" />
     <Compile Include="Models\Inline.cs" />
+    <Compile Include="Models\Section.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
