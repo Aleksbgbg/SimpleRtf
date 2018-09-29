@@ -4,6 +4,6 @@
 
     public abstract class Block : Content
     {
-        private protected List<Inline> Inlines { get; } = new List<Inline>();
+        public List<Inline> Inlines { get; } = new List<Inline>();
     }
 }
