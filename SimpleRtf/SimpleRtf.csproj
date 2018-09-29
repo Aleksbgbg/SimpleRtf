@@ -37,6 +37,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constants\CharacterSet.cs" />
     <Compile Include="Models\Block.cs" />
     <Compile Include="Models\Document.cs" />
     <Compile Include="Models\Content.cs" />
